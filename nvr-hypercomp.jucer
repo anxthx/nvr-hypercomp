@@ -17,7 +17,7 @@
   <EXPORTFORMATS>
     <VS2022 targetFolder="Builds/VisualStudio2022">
       <CONFIGURATIONS>
-        <CONFIGURATION isDebug="1" name="Debug" targetName="nvr-hypercomp"/>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="nvr-hypercomp" enablePluginBinaryCopyStep="1"/>
         <CONFIGURATION isDebug="0" name="Release" targetName="nvr-hypercomp"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
