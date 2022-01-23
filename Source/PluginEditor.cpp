@@ -17,7 +17,7 @@ NvrhypercompAudioProcessorEditor::NvrhypercompAudioProcessorEditor (Nvrhypercomp
     // editor's size to whatever you need it to be.
     setSize (400, 300);
 }
-
+ 
 NvrhypercompAudioProcessorEditor::~NvrhypercompAudioProcessorEditor()
 {
 }
